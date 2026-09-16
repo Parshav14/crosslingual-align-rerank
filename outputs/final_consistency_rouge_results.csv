@@ -1,0 +1,6 @@
+Language,Samples,ROUGE-1,ROUGE-2,ROUGE-L
+English,11535,38.93,15.58,30.66
+French,1086,35.91,16.75,28.0
+Spanish,4763,32.56,12.18,24.04
+Turkish,3397,33.14,16.92,27.56
+Swahili,987,36.94,16.77,29.68

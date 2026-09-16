@@ -1,0 +1,14 @@
+# Versions pinned in the notebook where known
+torch==2.4.0
+transformers==4.44.2
+datasets
+evaluate
+rouge_score
+sentence-transformers
+sentencepiece
+nltk
+numpy
+pandas
+tqdm
+matplotlib
+seaborn
