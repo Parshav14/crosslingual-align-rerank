@@ -1,4 +1,3 @@
-```markdown
 # Cross-Lingual Semantic Alignment and Multi-Objective Reranking for Multilingual Abstractive Summarization
 
 Code, results and figures for our paper in *Knowledge-Based Systems* (2026).
@@ -94,4 +93,3 @@ We use [XL-Sum](https://huggingface.co/datasets/csebuetnlp/xlsum), a public data
 ## Contact
 
 Dr. Jasmeet Singh, jasmeet.singh@thapar.edu
-```
